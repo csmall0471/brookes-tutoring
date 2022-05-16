@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Brooke's Tutoring",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
